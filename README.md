@@ -12,7 +12,7 @@
 
   <p>
     <a href="https://github.com/Redlabell1/Redlabel-Game-Adder/releases/latest">
-      <img src="https://img.shields.io/badge/S%C3%BCr%C3%BCm-v9.0.0-0284c7?style=for-the-badge&logo=windows&logoColor=white" alt="Version" />
+      <img src="https://img.shields.io/badge/S%C3%BCr%C3%BCm-v11.0.0-0284c7?style=for-the-badge&logo=windows&logoColor=white" alt="Version" />
     </a>
     <a href="https://discord.gg/Hek9SQJstW">
       <img src="https://img.shields.io/badge/Discord-Toplulu%C4%9Fumuz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
