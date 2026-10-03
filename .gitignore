@@ -1,0 +1,5 @@
+# Kapalı Kaynak Koruması - Sadece README ve LICENSE yayınlanır
+*
+!README.md
+!LICENSE.txt
+!.gitignore

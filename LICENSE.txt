@@ -1,0 +1,25 @@
+RedLabel - Oyun Yönetim Platformu
+Copyright © 2026 RedLabel
+
+LİSANS ANLAŞMASI
+
+Bu yazılım, yalnızca geçerli bir lisans anahtarı ile kullanılabilir.
+
+1. KULLANIM HAKKI
+   - Geçerli lisans anahtarına sahip kullanıcılar bu yazılımı kullanabilir.
+   - Lisans süresi dolduğunda yazılıma erişim sınırlanır.
+
+2. KISITLAMALAR
+   - Yazılımın tersine mühendisliği yapılamaz.
+   - Yazılım izinsiz dağıtılamaz veya çoğaltılamaz.
+   - Lisans anahtarları paylaşılamaz.
+
+3. GARANTİ REDDİ
+   - Bu yazılım "olduğu gibi" sağlanmaktadır.
+   - Yazılımın kullanımından doğan zararlardan RedLabel sorumlu değildir.
+
+4. TELİF HAKKI
+   - Tüm hakları saklıdır.
+   - RedLabel markası ve logosu tescillidir.
+
+Yazılımı yükleyerek bu lisans şartlarını kabul etmiş sayılırsınız.
