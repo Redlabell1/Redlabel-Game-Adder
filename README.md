@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://i.hizliresim.com/ivhymncg.png" alt="RedLabel Banner" width="700" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);" />
+  <img src="./logo.png" alt="RedLabel Tools" width="160" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);" />
   <br />
   <br />
 
