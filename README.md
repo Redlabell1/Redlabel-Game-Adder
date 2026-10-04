@@ -4,7 +4,7 @@
   <br />
   <br />
 
-  <h1>🎮 RedLabel Tools - Steam Game Adder & Launcher</h1>
+  <h1>🎮 RedLabel Tools - Steam Game Adder</h1>
 
   <p>
     <b>Yeni Nesil Steam Kütüphane Yöneticisi, Online-Fix Çok Oyunculu Desteği ve Türkçe Yama Merkezi</b>
