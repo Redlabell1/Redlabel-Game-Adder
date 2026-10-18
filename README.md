@@ -39,6 +39,7 @@
 - 🌐 **Online-Fix & Çok Oyunculu Desteği:** Spacewar ve P2P altyapısıyla arkadaşlarınızla kesintisiz çevrim içi oynayın.
 - 🇹🇷 **Türkçe Yama & Mod Merkezi:** Oyunlarınıza en güncel Türkçe yamaları ve eklentileri otomatik kurun.
 - 🚀 **Turbo Game Booster:** RAM optimizasyonu, işlemci önceliği ve arka plan servis temizliğiyle maksimum FPS.
+- 🚀 **Bypass Seçeneği İle 3. Partü Yazılım Uygulama isteyen Oyunları Bypasslayıp Oynayabilirisiniz.
 - 🛡️ **Canlı Discord Doğrulaması:** Resmi Discord sunucumuzla tam entegre, canlı rol ve üyelik güvenliği.
 - 🔄 **Otomatik Güncelleme (Auto-Updater):** Yeni bir sürüm çıktığında tek tıkla otomatik olarak kendini günceller.
 
