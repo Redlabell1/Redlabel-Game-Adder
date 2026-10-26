@@ -12,9 +12,9 @@
 
   <p>
     <a href="https://github.com/Redlabell1/Redlabel-Game-Adder/releases/latest">
-      <img src="https://img.shields.io/badge/S%C3%BCr%C3%BCm-v25.0.0-0284c7?style=for-the-badge&logo=windows&logoColor=white" alt="Version" />
+      <img src="https://img.shields.io/badge/S%C3%BCr%C3%BCm-v26.0.0-0284c7?style=for-the-badge&logo=windows&logoColor=white" alt="Version" />
     </a>
-    <a href="https://discord.gg/Hek9SQJstW">
+    <a href="https://discord.gg/redlabelstore">
       <img src="https://img.shields.io/badge/Discord-Toplulu%C4%9Fumuz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
     <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue?style=for-the-badge" alt="Platform" />
@@ -56,7 +56,7 @@
 ## 💬 Topluluk ve Destek
 
 Sorularınız, istekleriniz ve topluluk lobileri için resmi Discord sunucumuza bekleriz:  
-👉 **[Discord Sunucumuza Katılın](https://discord.gg/Hek9SQJstW)**
+👉 **[Discord Sunucumuza Katılın](https://discord.gg/redlabelstore)**
 
 ---
 
